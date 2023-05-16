@@ -1,2 +1,2 @@
-# Synchrony_Assessment
+# Synchrony Assessment
 Synchrony Assessment
